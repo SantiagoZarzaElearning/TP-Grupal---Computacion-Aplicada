@@ -3,3 +3,9 @@ Este TP tiene el contenido realizado con la VM del proyecto grupal de computacio
 
 Diagrama topografico
 Dentro del contenido del repositorio adjunto como archivo .pdf
+
+ALEJO SEYLER
+ATHOS FERRACCI
+JUAN MORELLO
+NAHARA BEATRIZ GRABINSKI
+ORNELA ZANELLA
